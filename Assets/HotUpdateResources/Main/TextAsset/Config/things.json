@@ -1,0 +1,7 @@
+[
+{"things_id":1001,"things_name":"石块","things_model":"shitou","things_drop":1004,"things_hp":200,"things_camp":0},
+{"things_id":1002,"things_name":"酋长大厅","things_model":"guoshu","things_drop":0,"things_hp":2000,"things_camp":1},
+{"things_id":1003,"things_name":"果树","things_model":"guoshu","things_drop":1004,"things_hp":100,"things_camp":0},
+{"things_id":9001,"things_name":"杂草1","things_model":"","things_drop":0,"things_hp":0,"things_camp":2},
+{"things_id":9002,"things_name":"杂草2","things_model":"","things_drop":0,"things_hp":0,"things_camp":2}
+]

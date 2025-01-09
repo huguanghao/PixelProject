@@ -1,0 +1,17 @@
+model_monster_p_1_fr1.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+hair
+bounds:2,307,300,300
+lv1
+bounds:649,744,225,150
+lv2
+bounds:2,155,300,150
+lv3
+bounds:347,694,300,200
+shenti
+bounds:2,609,343,285
+zuiba
+bounds:2,2,191,151

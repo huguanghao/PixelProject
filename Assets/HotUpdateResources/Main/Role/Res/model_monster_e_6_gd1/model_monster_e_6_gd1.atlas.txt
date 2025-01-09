@@ -1,0 +1,16 @@
+model_monster_e_6_gd1.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+L
+bounds:2,364,357,647
+R
+bounds:361,657,354,650
+rotate:90
+back
+bounds:2,203,194,159
+eye
+bounds:361,210,228,573
+rotate:90
+terre
+bounds:361,440,615,215

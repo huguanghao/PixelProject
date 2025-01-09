@@ -1,0 +1,469 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9d79945a044a3458bf0ac5e9ef627e, type: 3}
+  m_Name: FlipMethodConfigData
+  m_EditorClassIdentifier: 
+  list:
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/01_weapon_1.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/01_weapon_2.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/01_weapon_3.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/01_weapon_4.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/empty.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/empty_attack_one_radius.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/empty_go.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill01_h.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill01_k.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill01_s.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill02_e.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill02_f.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill02_s.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill03_f.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_demonboss_skill04_s.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_enemy_auto01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_enemy_auto02.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_fire.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_map_light.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_object_totem_fire_fly.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_object_totem_fire_hit.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_object_totem_swamp_hit.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_object_totem_toxic_hit.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_object_totem_treat_fly.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_object_totem_treat_hit.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_buildBorn.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_classChange.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_elementDrop01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_elementDrop02.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_elementDrop03.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_elementDrop04.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_elementHit.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_enemyBorn.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_enemyHit.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_itemBorn.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_itemDrop.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_partnerSymbol.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalIn_boss.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalIn_normal.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalIn_special.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_boss.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_normal.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_normal1.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_normal2.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_normal3.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_normal4.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_portalLoop_special.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_p_et0_skill01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_p_fr1et0_skill01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_p_fr1_skill01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_p_wd1fr1_skill01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_p_wd1_skill01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_p_wt1_skill01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_start.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_teleportIn.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_teleportOut.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_traderin.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_other_traderout.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill01_k.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill01_s.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill02_f.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill02_s.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill03_f.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill03_s.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill04_f.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill04_k.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rockboss_skill04_s.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rogue_ui_event.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_rogue_ui_unlock.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_01_a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_01_b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_01_c.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_01_d.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_01_e.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_02_a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_02_b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_03_a1.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_03_a2.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_03_b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_03_c.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_04_a1.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_04_a2.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_04_b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_04_c.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_06a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_06b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_charge01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_death.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_death_hit.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_firewall.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_firewall_cam.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_firewall_hit.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_frozen.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_frozen_hit.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_frozen_hit01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_invincible.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_invincible_cam.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_thunder.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_thunder_hit.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_active_thunder_hit01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_01a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_01b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_02.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_03.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_03_a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_03_b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_04a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_04b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_05a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_05b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_06a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_06b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_06c.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_07a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_07b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_07c.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_08a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_08b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_09a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ai_09b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_02.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_03.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_04.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_05.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_06a.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_am_06b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_an_01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_an_02.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_an_02a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_an_02b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_an_02c.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_an_03.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ar_01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ar_02.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ar_03.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ar_04.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_ar_05.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_et0_skill01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_et0_skill01_1.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_et0_tag01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_et1_fly01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_fr1_fly01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_gd0_skill01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_gd1_fly01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_gd1_skill01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_wd0_fly01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_wd0_skill01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_wd1_fly.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_wd1_skill.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_wt0_fly01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_boss_wt1_fly.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_01a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_01b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_02.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_03a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_03b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_04.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_05.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_buff_06.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_dragon_01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_dragon_explodefist.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_dragon_firefist.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_dragon_firemissile.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_dragon_palm.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_dragon_ridge.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_bow.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_crossbow.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_crystalball.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_dragonball.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_javelin.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_shuriken.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_slingshot.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_fly_stone.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_magic_01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_magic_fire.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_magic_meteorite.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1001.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1002.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1003a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1003b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1004.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1005.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1006.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1007a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1007b.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1008.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1009.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_1010.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3001.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3002.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3003.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3004.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3005a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3005b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_skill_p_3006.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no1.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no10.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no2.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no3.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no4.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no5.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no6.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no7.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no8.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_test_no9.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_home_build01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_home_build02.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_home_totemcreate.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_shopgoods_l01.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_shopgoods_l02.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_shopgoods_l03.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_shopgoods_s01.prefab
+    type: 1
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_shopgoods_s02.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_shopgoods_s03.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_skillButton_a.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/fx_ui_skillButton_b.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/Map_32_011_VFX.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/Map_eat_newVFX.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/Map_world_VFX.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/Map_world_VFX1.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/model_object_totem_fire.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/model_object_totem_swamp.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/model_object_totem_toxic.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/model_object_totem_treat.prefab
+    type: 2
+  - assetPath: Assets/HotUpdateResources/Main/Effect/Prefabs/Smoke_VFX.prefab
+    type: 2

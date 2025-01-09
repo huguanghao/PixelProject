@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:TextField picking-mode="Ignore" label="特效路径" value="filler text" text="Assets/HotUpdateResources/Main/Effect/Prefabs" name="EffectPath" />
+    <ui:VisualElement style="flex-direction: row; flex-grow: 1; margin-right: 0; margin-bottom: 0; justify-content: flex-start; align-items: stretch;">
+        <ui:VisualElement focusable="true" style="flex-grow: 1; flex-direction: column; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); opacity: 1; margin-right: 1px; margin-bottom: 1px; margin-left: 1px; margin-top: 1px; flex-shrink: 1; width: auto;">
+            <ui:VisualElement name="ListGroup" style="flex-direction: row;">
+                <ui:Label text="预制体列表" display-tooltip-when-elided="true" />
+            </ui:VisualElement>
+            <ui:ListView focusable="true" usage-hints="None" selection-type="Single" show-bound-collection-size="true" horizontal-scrolling="false" name="EffectList" item-height="30" show-border="false" show-alternating-row-backgrounds="None" reorderable="false" style="flex-grow: 1; flex-shrink: 1; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgb(65, 65, 65); border-right-color: rgb(65, 65, 65); border-top-color: rgb(65, 65, 65); border-bottom-color: rgb(65, 65, 65);" />
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; width: 60%; flex-shrink: 0; margin-left: 1px; margin-right: 1px; margin-top: 1px; margin-bottom: 1px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0);">
+            <ui:VisualElement name="FlipMethodType" style="flex-direction: row;">
+                <ui:Label text="翻转方式" display-tooltip-when-elided="true" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-direction: row-reverse; flex-wrap: nowrap; margin-top: 10px; margin-bottom: 10px;">
+        <ui:Button text="Save" display-tooltip-when-elided="true" name="SaveBtn" style="margin-left: 50px; margin-right: 50px;" />
+        <ui:Toggle label="自动保存" name="AutoSave" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; border-left-color: rgba(0, 0, 0, 255); border-right-color: rgba(0, 0, 0, 255); border-top-color: rgba(0, 0, 0, 255); border-bottom-color: rgba(0, 0, 0, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

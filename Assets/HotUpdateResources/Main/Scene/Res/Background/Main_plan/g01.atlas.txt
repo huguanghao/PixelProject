@@ -1,0 +1,7 @@
+g01.png
+size:1344,760
+filter:Linear,Linear
+pma:true
+g1
+bounds:2,2,1340,756
+offsets:0,44,1340,800

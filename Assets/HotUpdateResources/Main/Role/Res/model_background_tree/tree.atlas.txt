@@ -1,0 +1,13 @@
+tree.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.8
+tree01
+bounds:2,528,366,481
+tree02
+bounds:2,119,202,407
+tree03
+bounds:1506,1301,255,460
+tree_back_f
+bounds:2,1011,1502,750

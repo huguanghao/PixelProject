@@ -1,0 +1,11 @@
+fire.png
+size:64,64
+filter:Linear,Linear
+pma:true
+scale:0.3
+fire
+bounds:2,5,35,47
+offsets:2,5,39,54
+fire_in
+bounds:39,30,13,22
+offsets:13,14,39,54

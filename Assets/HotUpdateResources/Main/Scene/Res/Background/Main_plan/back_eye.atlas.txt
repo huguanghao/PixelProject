@@ -1,0 +1,17 @@
+back_eye.png
+size:3846,987
+filter:Linear,Linear
+pma:true
+background
+bounds:2,2,3842,748
+e_d
+bounds:154,792,193,202
+rotate:90
+e_gl
+bounds:2,946,41,39
+e_t
+bounds:45,888,97,107
+rotate:90
+k
+bounds:358,752,233,244
+rotate:90

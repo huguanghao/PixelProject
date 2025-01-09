@@ -1,0 +1,16 @@
+tower_stone.png
+size:740,426
+filter:Linear,Linear
+pma:true
+Z01
+bounds:436,214,210,300
+rotate:90
+Z02
+bounds:436,2,200,210
+Z03
+bounds:2,12,412,432
+rotate:90
+a01
+bounds:638,80,93,60
+a02
+bounds:638,142,100,70

@@ -1,0 +1,3 @@
+[
+{"id":9001,"model":5001,"name":"一型盗宝怪","create_term":[[1,30000],[2,1],[3,10000]],"life_time":30000,"move_speed":[20000,40000],"rest_time":2000,"escape_distance":[3000,8],"invenc_time":2000,"destruct_targets":[4,2],"detect_cd":3000,"death_count":5,"drop_1":4001,"drop_2":[4002,4003,4004,4005,4006,4007]}
+]

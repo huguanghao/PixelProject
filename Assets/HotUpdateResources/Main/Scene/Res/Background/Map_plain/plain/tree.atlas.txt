@@ -1,0 +1,11 @@
+tree.png
+size:312,312
+filter:Linear,Linear
+pma:true
+scale:0.9
+t17
+bounds:172,42,138,268
+offsets:0,37,138,305
+t18
+bounds:2,9,168,301
+offsets:0,82,168,383

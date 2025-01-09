@@ -1,0 +1,7 @@
+model_weapon_staff_02.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+model_weapon_staff_02
+bounds:2,2,166,559

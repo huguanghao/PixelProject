@@ -1,0 +1,15 @@
+1.png
+size:64,64
+filter:Linear,Linear
+pma:true
+scale:0.3
+s1
+bounds:21,32,8,11
+s2
+bounds:2,15,13,13
+s3
+bounds:2,4,10,9
+s4
+bounds:2,30,17,13
+s5
+bounds:31,36,12,7

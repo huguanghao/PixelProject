@@ -1,0 +1,7 @@
+tengwan.png
+size:1837,1837
+filter:Linear,Linear
+pma:true
+scale:0.55
+T
+bounds:2,1344,1833,491

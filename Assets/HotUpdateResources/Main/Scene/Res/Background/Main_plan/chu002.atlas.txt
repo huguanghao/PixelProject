@@ -1,0 +1,9 @@
+chu002.png
+size:840,399
+filter:Linear,Linear
+pma:true
+c3
+bounds:2,2,734,395
+offsets:0,0,734,443
+c3_01
+bounds:738,297,100,100

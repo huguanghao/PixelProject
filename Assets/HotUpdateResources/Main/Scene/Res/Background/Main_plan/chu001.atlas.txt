@@ -1,0 +1,6 @@
+chu001.png
+size:215,365
+filter:Linear,Linear
+pma:true
+c2
+bounds:2,2,211,361

@@ -1,0 +1,7 @@
+[
+{"id":1,"dec_section":[25,50,75,100],"dec_speed":500,"dec_point":[10,20,30],"dec_quality":[0,20,80],"fail_count":2},
+{"id":2,"dec_section":[30,50,65,80],"dec_speed":500,"dec_point":[10,20,30],"dec_quality":[0,20,80],"fail_count":2},
+{"id":3,"dec_section":[35,45,60,75],"dec_speed":500,"dec_point":[10,20,30],"dec_quality":[0,20,80],"fail_count":2},
+{"id":4,"dec_section":[30,40,50,60],"dec_speed":500,"dec_point":[10,20,30],"dec_quality":[0,20,80],"fail_count":2},
+{"id":5,"dec_section":[25,30,40,50],"dec_speed":500,"dec_point":[10,20,30],"dec_quality":[0,20,80],"fail_count":2}
+]

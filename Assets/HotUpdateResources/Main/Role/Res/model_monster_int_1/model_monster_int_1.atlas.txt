@@ -1,0 +1,17 @@
+model_monster_int_1.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+body
+bounds:10,280,375,300
+hand1
+bounds:755,790,125,100
+hand2
+bounds:10,10,125,100
+lv1
+bounds:10,120,300,150
+lv2
+bounds:445,690,300,200
+tete
+bounds:10,590,425,300

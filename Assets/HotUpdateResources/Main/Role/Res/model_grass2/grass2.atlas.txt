@@ -1,0 +1,12 @@
+grass2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,91,84,72
+2
+bounds:2,2,87,67
+rotate:90
+3
+bounds:88,110,30,53

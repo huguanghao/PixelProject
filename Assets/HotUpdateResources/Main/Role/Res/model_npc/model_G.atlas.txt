@@ -1,0 +1,9 @@
+model_G.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.4
+d1
+bounds:2,246,450,206
+d2
+bounds:2,166,348,78

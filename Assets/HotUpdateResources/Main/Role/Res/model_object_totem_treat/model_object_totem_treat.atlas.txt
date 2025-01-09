@@ -1,0 +1,7 @@
+model_object_totem_treat.png
+size:254,254
+filter:Linear,Linear
+pma:true
+scale:0.5
+treat
+bounds:2,2,160,250

@@ -1,0 +1,15 @@
+flower.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+eye
+bounds:179,179,40,40
+eye_in
+bounds:2,24,14,25
+offsets:0,0,15,25
+flower
+bounds:2,89,175,130
+g
+bounds:2,51,36,127
+rotate:90

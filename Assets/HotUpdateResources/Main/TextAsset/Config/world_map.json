@@ -1,0 +1,8 @@
+[
+{"post_id":2300010,"post_name":{"tableName":"r1","id":2300010,"index":0},"ui_res_name":"ui_d_worldmap:Btn_Spot01","s_post":[2300011,2300012,2300013],"post_place":[369,377],"post_type":1,"post_cond":[0,0],"post_show":1},
+{"post_id":2300020,"post_name":{"tableName":"r1","id":2300020,"index":0},"ui_res_name":"ui_d_worldmap:Btn_Spot02","s_post":[2300021,2300022,2300023],"post_place":[492,541],"post_type":1,"post_cond":[7,2300011],"post_show":0},
+{"post_id":2300030,"post_name":{"tableName":"r1","id":2300030,"index":0},"ui_res_name":"ui_d_worldmap:Btn_Spot03","s_post":[2300031,2300032,2300033],"post_place":[692,424],"post_type":1,"post_cond":[7,2300021],"post_show":0},
+{"post_id":2300040,"post_name":{"tableName":"r1","id":2300040,"index":0},"ui_res_name":"ui_d_worldmap:Btn_Spot04","s_post":[2300041,2300042,2300043],"post_place":[871,335],"post_type":1,"post_cond":[7,2300031],"post_show":0},
+{"post_id":2300050,"post_name":{"tableName":"r1","id":2300050,"index":0},"ui_res_name":"ui_d_worldmap:Btn_Spot15","s_post":[2300051,2300052,2300053],"post_place":[726,231],"post_type":1,"post_cond":[7,2300041],"post_show":0},
+{"post_id":2300060,"post_name":{"tableName":"r1","id":2300060,"index":0},"ui_res_name":"ui_d_worldmap:Btn_Spot05","s_post":[2300061,2300062,2300063],"post_place":[980,187],"post_type":1,"post_cond":[7,2300051],"post_show":0}
+]

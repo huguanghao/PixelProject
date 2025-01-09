@@ -1,0 +1,7 @@
+model_object_totem_swamp.png
+size:394,394
+filter:Linear,Linear
+pma:true
+scale:0.8
+swamp
+bounds:2,2,266,390

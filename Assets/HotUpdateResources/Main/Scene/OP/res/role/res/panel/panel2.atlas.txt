@@ -1,0 +1,13 @@
+panel2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.3
+1
+bounds:2,26,75,72
+2
+bounds:124,168,28,21
+3
+bounds:2,2,27,22
+4
+bounds:2,100,120,89

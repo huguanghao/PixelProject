@@ -1,0 +1,6 @@
+g02.png
+size:1660,477
+filter:Linear,Linear
+pma:true
+g2
+bounds:2,2,1656,473

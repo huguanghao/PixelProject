@@ -1,0 +1,6 @@
+g03.png
+size:657,450
+filter:Linear,Linear
+pma:true
+g3
+bounds:2,2,653,446

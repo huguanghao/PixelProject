@@ -1,0 +1,7 @@
+model_weapon_sword_02.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+model_weapon_sword_02
+bounds:2,2,179,495

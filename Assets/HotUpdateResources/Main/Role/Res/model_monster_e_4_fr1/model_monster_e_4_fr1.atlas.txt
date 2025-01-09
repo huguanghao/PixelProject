@@ -1,0 +1,9 @@
+model_monster_e_4_fr1.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+n
+bounds:2,107,357,329
+t
+bounds:2,2,324,103

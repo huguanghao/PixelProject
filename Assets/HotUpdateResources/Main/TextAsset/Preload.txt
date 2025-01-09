@@ -1,0 +1,3 @@
+Assets/HotUpdateResources/Main/TextAsset/GText/lang1.json
+Assets/HotUpdateResources/Main/TextAsset/GText/r1.json
+Assets/HotUpdateResources/Main/TextAsset/GText/ui_lang.json

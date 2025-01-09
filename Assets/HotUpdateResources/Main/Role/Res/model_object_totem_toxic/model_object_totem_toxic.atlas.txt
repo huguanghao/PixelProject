@@ -1,0 +1,15 @@
+model_object_totem_toxic.png
+size:436,436
+filter:Linear,Linear
+pma:true
+scale:0.8
+1
+bounds:284,123,165,113
+offsets:54,25,280,160
+rotate:90
+2
+bounds:2,2,280,432
+offsets:0,0,280,440
+3
+bounds:284,290,146,144
+offsets:69,26,280,200

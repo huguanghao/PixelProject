@@ -1,0 +1,6 @@
+[
+{"id":1001,"select_type":0,"cost":50,"cover":"ui_s_shop:shop_box_type_01","term":[0]},
+{"id":1002,"select_type":1,"cost":60,"cover":"ui_s_shop:shop_box_type_02","term":[0]},
+{"id":1003,"select_type":2,"cost":60,"cover":"ui_s_shop:shop_box_type_03","term":[0]},
+{"id":1004,"select_type":3,"cost":60,"cover":"ui_s_shop:shop_box_type_04","term":[1,10]}
+]

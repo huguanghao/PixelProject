@@ -1,0 +1,14 @@
+[
+{"key":"Ver","value":{"cs":"资源版本号: v{0}res{1}","en":"v{0}res{1}"}},
+{"key":"IsDone","value":{"cs":"下载完成","en":"Complete"}},
+{"key":"LoadScene","value":{"cs":"加载场景","en":"LoadScene"}},
+{"key":"Update","value":{"cs":"需要更新，大小:{0}","en":"Need to download,size:{0}"}},
+{"key":"UpdateCount","value":{"cs":"发现{0}个资源有更新，总计需要下载{1}","en":"{0} file changes found,size {1}"}},
+{"key":"Downloading","value":{"cs":"下载中...{0}，进度{0}%","en":"Downloading...{0},progress{1}%"}},
+{"key":"tip","value":{"cs":"提示","en":"Tip"}},
+{"key":"yes","value":{"cs":"是","en":"yes"}},
+{"key":"no","value":{"cs":"否","en":"no"}},
+{"key":"ok","value":{"cs":"确认","en":"ok"}},
+{"key":"Error","value":{"cs":"无法获取服务器信息","en":"No version message"}},
+{"key":"DeleteDLC","value":{"cs":"确定要删除缓存吗？","en":"Are you sure you want to delete the cache?"}}
+]

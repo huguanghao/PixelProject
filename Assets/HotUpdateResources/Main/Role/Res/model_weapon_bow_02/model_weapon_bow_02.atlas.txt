@@ -1,0 +1,7 @@
+model_weapon_bow_02.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+model_weapon_bow_02
+bounds:2,2,166,426

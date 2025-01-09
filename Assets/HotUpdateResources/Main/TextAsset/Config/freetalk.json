@@ -1,0 +1,12 @@
+[
+{"partner_id":1001,"normal_talk":["1","2","3"],"special_talk":["1","2","3"],"emotion":[1,2,3]},
+{"partner_id":1002,"normal_talk":["4","5","6"],"special_talk":["4","5","6"],"emotion":[1,2,3]},
+{"partner_id":1003,"normal_talk":["1","2","3"],"special_talk":["1","2","3"],"emotion":[1,2,3]},
+{"partner_id":1004,"normal_talk":["4","5","6"],"special_talk":["4","5","6"],"emotion":[1,2,3]},
+{"partner_id":1005,"normal_talk":["1","2","3"],"special_talk":["1","2","3"],"emotion":[1,2,3]},
+{"partner_id":1006,"normal_talk":["4","5","6"],"special_talk":["4","5","6"],"emotion":[1,2,3]},
+{"partner_id":1007,"normal_talk":["1","2","3"],"special_talk":["1","2","3"],"emotion":[1,2,3]},
+{"partner_id":1008,"normal_talk":["4","5","6"],"special_talk":["4","5","6"],"emotion":[1,2,3]},
+{"partner_id":1009,"normal_talk":["1","2","3"],"special_talk":["1","2","3"],"emotion":[1,2,3]},
+{"partner_id":1010,"normal_talk":["4","5","6"],"special_talk":["4","5","6"],"emotion":[1,2,3]}
+]

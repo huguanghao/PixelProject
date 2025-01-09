@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1576828925786098448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5817932458644251999}
+  - component: {fileID: 7510405186409607629}
+  m_Layer: 0
+  m_Name: public_res_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5817932458644251999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576828925786098448}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7510405186409607629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576828925786098448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b56b76de49cd24b92a48443c911b53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PackageName: public_res_1
+  AllBytes:
+  - {fileID: 4900000, guid: cb979f2eb24cac740a37b380385245fa, type: 3}
+  AllTexture2D:
+  - {fileID: 2800000, guid: 815c1671d732580448f1e7d4681c2683, type: 3}
+  - {fileID: 2800000, guid: c9433da1575e224449837bab8fa35779, type: 3}
+  - {fileID: 2800000, guid: 539ce3491a2871a41bd711d621a179f7, type: 3}
+  - {fileID: 2800000, guid: 0bbecfff225e6d743b67305bac185635, type: 3}
+  - {fileID: 2800000, guid: 87c6c371d1cbc4644bb2312834e59c7c, type: 3}
+  - {fileID: 2800000, guid: 11d2713ad7bd0c84c9f5384a41aab24c, type: 3}
+  - {fileID: 2800000, guid: 5367c0243fab6a44ca6ab2fe0745a16e, type: 3}
+  - {fileID: 2800000, guid: 0f2f9bba1ebf7d146a9454ca8b1d63e6, type: 3}
+  - {fileID: 2800000, guid: 83a0dbd8054a45842bfab976924a2f1f, type: 3}
+  AllAudioClip: []

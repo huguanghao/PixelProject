@@ -1,0 +1,15 @@
+[
+{"id":1001,"spe_name":"fx_other_enemyBorn","spe_sound":1240000,"invert_time":0},
+{"id":1002,"spe_name":"fx_other_elementHit","spe_sound":0,"invert_time":0},
+{"id":2001,"spe_name":"fx_other_elementDrop01","spe_sound":0,"invert_time":0},
+{"id":2002,"spe_name":"fx_other_elementDrop02","spe_sound":0,"invert_time":0},
+{"id":2003,"spe_name":"fx_other_elementDrop03","spe_sound":0,"invert_time":0},
+{"id":2004,"spe_name":"fx_other_elementDrop04","spe_sound":0,"invert_time":0},
+{"id":3001,"spe_name":"fx_other_partnerSymbol","spe_sound":0,"invert_time":0},
+{"id":5001,"spe_name":"fx_skill_active_01_d","spe_sound":0,"invert_time":0},
+{"id":5006,"spe_name":"fx_skill_active_06a","spe_sound":0,"invert_time":0.5},
+{"id":6001,"spe_name":"fx_screen_warning_01","spe_sound":0,"invert_time":0},
+{"id":6002,"spe_name":"fx_screen_warning_02","spe_sound":0,"invert_time":0},
+{"id":6003,"spe_name":"fx_screen_warning_03","spe_sound":0,"invert_time":0},
+{"id":6004,"spe_name":"fx_screen_warning_04","spe_sound":0,"invert_time":0}
+]

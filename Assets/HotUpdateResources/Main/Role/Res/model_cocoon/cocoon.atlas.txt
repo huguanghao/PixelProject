@@ -1,0 +1,11 @@
+cocoon.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+cocoon1
+bounds:2,2,60,200
+cocoon2
+bounds:126,52,60,150
+cocoon3
+bounds:64,27,60,175

@@ -1,0 +1,9 @@
+[
+{"id":1,"priority":1,"base_value":10000,"trigger":[],"t_value":0,"max_value":10000},
+{"id":2,"priority":1,"base_value":0,"trigger":[3],"t_value":200,"max_value":6000},
+{"id":3,"priority":1,"base_value":0,"trigger":[6],"t_value":70,"max_value":2500},
+{"id":4,"priority":1,"base_value":0,"trigger":[9],"t_value":8,"max_value":1000},
+{"id":5,"priority":2,"base_value":0,"trigger":[10],"t_value":1000,"max_value":1000},
+{"id":6,"priority":2,"base_value":0,"trigger":[10],"t_value":500,"max_value":500},
+{"id":7,"priority":3,"base_value":0,"trigger":[1],"t_value":100,"max_value":10000}
+]

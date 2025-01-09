@@ -1,0 +1,6 @@
+[
+{"hit_id":1001,"hit_type":1,"hit_position":0.8,"hit_move_mode":0,"hit_move_spd":30,"hit_time":1200,"hit_size":10000,"hit_zoom":[15000,15000,10000]},
+{"hit_id":1002,"hit_type":2,"hit_position":1.5,"hit_move_mode":2,"hit_move_spd":50,"hit_time":1500,"hit_size":10000,"hit_zoom":[18000,15000,10000]},
+{"hit_id":1003,"hit_type":3,"hit_position":0,"hit_move_mode":2,"hit_move_spd":30,"hit_time":800,"hit_size":10000,"hit_zoom":[12000]},
+{"hit_id":1004,"hit_type":4,"hit_position":0,"hit_move_mode":1,"hit_move_spd":50,"hit_time":1500,"hit_size":10000,"hit_zoom":[15000,15000,10000]}
+]

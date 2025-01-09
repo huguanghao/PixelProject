@@ -1,0 +1,7 @@
+f2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.3
+zhouyu
+bounds:2,116,142,28

@@ -1,0 +1,9 @@
+exc.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+exc
+bounds:2,2,32,32
+panel1
+bounds:2,36,49,44

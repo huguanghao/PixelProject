@@ -1,0 +1,7 @@
+fire2.png
+size:64,64
+filter:Linear,Linear
+pma:true
+scale:0.3
+fire
+bounds:2,2,39,54
